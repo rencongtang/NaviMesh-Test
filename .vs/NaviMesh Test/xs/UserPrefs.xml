@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{D9AAD549-6AA7-33E0-438A-B2F238719A4E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AstarPathfindingProject/Core/astarclasses.cs">
+    <Files>
+      <File FileName="Assets/AstarPathfindingProject/Readme.txt" Line="1" Column="1" />
+      <File FileName="Assets/AstarPathfindingProject/Readme_upgrading.txt" Line="1" Column="1" />
+      <File FileName="Assets/AstarPathfindingProject/Core/AstarPath.cs" Line="1" Column="1" />
+      <File FileName="Assets/AstarPathfindingProject/Core/AI/Seeker.cs" Line="349" Column="58" />
+      <File FileName="Assets/Dev/AstarAI.cs" Line="49" Column="27" />
+      <File FileName="Assets/AstarPathfindingProject/Core/Path.cs" Line="28" Column="24" />
+      <File FileName="Assets/AstarPathfindingProject/Core/astarclasses.cs" Line="780" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NaviMesh_220Test PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
